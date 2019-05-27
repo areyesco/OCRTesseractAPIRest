@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringBootRestApiApplication",
+            "request": "launch",
+            "mainClass": "com.areyes.SpringBootRestApiApplication",
+            "projectName": "ocr-api-rest"
+        }
+    ]
+}
