@@ -1,5 +1,7 @@
 package com.areyes.service;
 
+import java.nio.file.Paths;
+
 import org.bytedeco.javacpp.BytePointer;
 import org.bytedeco.javacpp.lept;
 import org.bytedeco.javacpp.lept.PIX;
@@ -8,16 +10,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.List;
-import java.util.Optional;
-
 @Service
 @Transactional
 public class OcrService {
     private final TessBaseAPI tessInstance;
     private final String imagesPaths = "C:\\Datos\\dev\\projects\\python\\automationRMMICI\\image\\ocr";
+    private final String imagesPathsTESTING = "C:\\Datos\\dev\\projects\\python\\automationRMMICI\\image\\ocr\\test\\zoomTest";
 
     @Autowired
     public OcrService() {
@@ -51,9 +49,9 @@ public class OcrService {
                 {
                     extractedText = extractedText.trim();
                 }
-                System.out.println(extractedText);
             }
         }
+        System.out.println(String.format("Extracted text: >%s<", extractedText));
         return extractedText;
     }
 

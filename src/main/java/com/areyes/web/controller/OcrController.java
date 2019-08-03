@@ -1,17 +1,15 @@
 package com.areyes.web.controller;
 
-import com.areyes.entity.User;
 import com.areyes.service.OcrService;
-import com.areyes.service.UserService;
-import lombok.extern.slf4j.Slf4j;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
-import java.util.List;
-import java.util.Optional;
-
-import static org.springframework.http.HttpStatus.CREATED;
+import lombok.extern.slf4j.Slf4j;
 
 @RestController
 @RequestMapping("/api/ocr")

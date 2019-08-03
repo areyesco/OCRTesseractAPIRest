@@ -1,0 +1,5 @@
+com\areyes\utils\BaseIntegrationTest.class
+com\areyes\utils\TestHelper.class
+com\areyes\utils\BaseIntegrationTest$Initializer.class
+com\areyes\web\controller\UserControllerTests.class
+com\areyes\web\controller\UserControllerIT.class

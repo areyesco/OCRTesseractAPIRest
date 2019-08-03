@@ -1,0 +1,185 @@
+# Created at 2019-05-26T23:44:56.930
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-05-26T23:44:57.412
+Unexpected IOException with stream: 23:44:57.412 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:44:57.414
+Unexpected IOException with stream: 23:44:57.413 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@98a124a
+
+
+# Created at 2019-05-26T23:45:00.125
+Unexpected IOException with stream: 23:45:00.125 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:00.127
+Unexpected IOException with stream: 23:45:00.126 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@137e82c5
+
+
+# Created at 2019-05-26T23:45:01.442
+Unexpected IOException with stream: 23:45:01.441 [ducttape-1] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:01.445
+Unexpected IOException with stream: 23:45:01.444 [ducttape-1] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@31820d46
+
+
+# Created at 2019-05-26T23:45:02.013
+Unexpected IOException with stream: 23:45:02.013 [ducttape-0] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:02.015
+Unexpected IOException with stream: 23:45:02.014 [ducttape-0] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@1b5756a2
+
+
+# Created at 2019-05-26T23:45:02.833
+Unexpected IOException with stream: 23:45:02.832 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:02.834
+Unexpected IOException with stream: 23:45:02.833 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@15ea1078
+
+
+# Created at 2019-05-26T23:45:05.581
+Unexpected IOException with stream: 23:45:05.580 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:05.582
+Unexpected IOException with stream: 23:45:05.581 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@34af7580
+
+
+# Created at 2019-05-26T23:45:08.730
+Unexpected IOException with stream: 23:45:08.730 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:08.731
+Unexpected IOException with stream: 23:45:08.731 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@6d6e391d
+
+
+# Created at 2019-05-26T23:45:11.337
+Unexpected IOException with stream: 23:45:11.337 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:11.338
+Unexpected IOException with stream: 23:45:11.338 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@a61f6df
+
+
+# Created at 2019-05-26T23:45:11.955
+Unexpected IOException with stream: 23:45:11.954 [ducttape-1] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:11.956
+Unexpected IOException with stream: 23:45:11.955 [ducttape-1] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@5f32b890
+
+
+# Created at 2019-05-26T23:45:12.518
+Unexpected IOException with stream: 23:45:12.518 [ducttape-0] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:12.519
+Unexpected IOException with stream: 23:45:12.519 [ducttape-0] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@66ed01a6
+
+
+# Created at 2019-05-26T23:45:14.089
+Unexpected IOException with stream: 23:45:14.089 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:14.090
+Unexpected IOException with stream: 23:45:14.089 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@4fcd4e3b
+
+
+# Created at 2019-05-26T23:45:16.685
+Unexpected IOException with stream: 23:45:16.685 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:16.686
+Unexpected IOException with stream: 23:45:16.686 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@12137
+
+
+# Created at 2019-05-26T23:45:19.481
+Unexpected IOException with stream: 23:45:19.481 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:19.482
+Unexpected IOException with stream: 23:45:19.482 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@1cbb56fb
+
+
+# Created at 2019-05-26T23:45:22.229
+Unexpected IOException with stream: 23:45:22.228 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:22.231
+Unexpected IOException with stream: 23:45:22.229 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@19698cbd
+
+
+# Created at 2019-05-26T23:45:22.460
+Unexpected IOException with stream: 23:45:22.460 [ducttape-1] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:22.462
+Unexpected IOException with stream: 23:45:22.461 [ducttape-1] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@496aa609
+
+
+# Created at 2019-05-26T23:45:23.023
+Unexpected IOException with stream: 23:45:23.023 [ducttape-0] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:23.024
+Unexpected IOException with stream: 23:45:23.024 [ducttape-0] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@5dd6d265
+
+
+# Created at 2019-05-26T23:45:24.737
+Unexpected IOException with stream: 23:45:24.736 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:24.738
+Unexpected IOException with stream: 23:45:24.737 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@3c70a53d
+
+
+# Created at 2019-05-26T23:45:27.583
+Unexpected IOException with stream: 23:45:27.583 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:27.584
+Unexpected IOException with stream: 23:45:27.584 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@3571231d
+
+
+# Created at 2019-05-26T23:45:30.595
+Unexpected IOException with stream: 23:45:30.593 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:30.596
+Unexpected IOException with stream: 23:45:30.595 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@73bbb7c6
+
+
+# Created at 2019-05-26T23:45:32.967
+Unexpected IOException with stream: 23:45:32.966 [ducttape-1] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:32.969
+Unexpected IOException with stream: 23:45:32.967 [ducttape-1] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@75b80866
+
+
+# Created at 2019-05-26T23:45:33.417
+Unexpected IOException with stream: 23:45:33.417 [ducttape-3] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:33.418
+Unexpected IOException with stream: 23:45:33.418 [ducttape-3] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@26e2d168
+
+
+# Created at 2019-05-26T23:45:33.528
+Unexpected IOException with stream: 23:45:33.528 [ducttape-0] DEBUG org.testcontainers.dockerclient.DockerClientProviderStrategy - Pinging docker daemon...
+
+
+# Created at 2019-05-26T23:45:33.529
+Unexpected IOException with stream: 23:45:33.529 [ducttape-0] DEBUG com.github.dockerjava.core.command.AbstrDockerCmd - Cmd: org.testcontainers.dockerclient.transport.okhttp.OkHttpDockerCmdExecFactory$1@71b150b6
+
+

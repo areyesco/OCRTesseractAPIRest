@@ -1,0 +1,9 @@
+com\areyes\repo\UserRepository.class
+com\areyes\web\controller\UserController.class
+com\areyes\entity\User.class
+com\areyes\service\UserService.class
+com\areyes\entity\User$UserBuilder.class
+com\areyes\SpringBootRestApiApplication.class
+com\areyes\web\controller\OcrController.class
+com\areyes\service\OcrService.class
+com\areyes\config\SwaggerConfig.class
